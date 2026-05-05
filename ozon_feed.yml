@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-04 17:43">
+<yml_catalog date="2026-05-05 13:27">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics Kazakhstan</company>
@@ -235,13 +235,13 @@
           <outlet instock="5" warehouse_name="Основной склад" />
         </outlets>
       </offer>
-      <offer id="5702" available="false">
+      <offer id="5702" available="true">
         <name>F2V5PS2S.APTPCOM.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
         <price>269990</price>
         <outlets>
-          <outlet instock="0" warehouse_name="Основной склад" />
+          <outlet instock="1" warehouse_name="Основной склад" />
         </outlets>
       </offer>
       <offer id="5703" available="false">
@@ -1051,7 +1051,7 @@
         <currencyId>KZT</currencyId>
         <price>629990</price>
         <outlets>
-          <outlet instock="3" warehouse_name="Основной склад" />
+          <outlet instock="6" warehouse_name="Основной склад" />
         </outlets>
       </offer>
       <offer id="5815" available="true">
@@ -1069,7 +1069,7 @@
         <currencyId>KZT</currencyId>
         <price>629990</price>
         <outlets>
-          <outlet instock="5" warehouse_name="Основной склад" />
+          <outlet instock="7" warehouse_name="Основной склад" />
         </outlets>
       </offer>
       <offer id="5817" available="true">
@@ -1114,7 +1114,7 @@
         <currencyId>KZT</currencyId>
         <price>289990</price>
         <outlets>
-          <outlet instock="198" warehouse_name="Основной склад" />
+          <outlet instock="199" warehouse_name="Основной склад" />
         </outlets>
       </offer>
       <offer id="5822" available="true">
@@ -1567,31 +1567,31 @@
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
       </offer>
-      <offer id="5877" available="false">
+      <offer id="5877" available="true">
         <name>GC-B509MLWM.ADSQCIS.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
         <price>329990</price>
         <outlets>
-          <outlet instock="0" warehouse_name="Основной склад" />
+          <outlet instock="6" warehouse_name="Основной склад" />
         </outlets>
       </offer>
-      <offer id="5878" available="false">
+      <offer id="5878" available="true">
         <name>GC-B509MEWM.ASEQCIS.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
         <price>339990</price>
         <outlets>
-          <outlet instock="0" warehouse_name="Основной склад" />
+          <outlet instock="1" warehouse_name="Основной склад" />
         </outlets>
       </offer>
-      <offer id="5879" available="false">
+      <offer id="5879" available="true">
         <name>DC90V9V9WN.BBWPCOM.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
         <price>544990</price>
         <outlets>
-          <outlet instock="0" warehouse_name="Основной склад" />
+          <outlet instock="1" warehouse_name="Основной склад" />
         </outlets>
       </offer>
       <offer id="5880" available="false">
@@ -2300,7 +2300,7 @@
         <name>24MS500-B.ARUZ.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>69990</price>
+        <price>42990</price>
         <outlets>
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
@@ -2309,7 +2309,7 @@
         <name>27GS60F-B.ARUZ.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>114990</price>
+        <price>79990</price>
         <outlets>
           <outlet instock="20" warehouse_name="Основной склад" />
         </outlets>
@@ -2336,7 +2336,7 @@
         <name>27MS500-B.ARUZ.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>83990</price>
+        <price>59990</price>
         <outlets>
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
@@ -2435,7 +2435,7 @@
         <name>24GS60F-B.ARUZ.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>94990</price>
+        <price>64990</price>
         <outlets>
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
@@ -2606,7 +2606,7 @@
         <name>S70TR.ARUSLLK.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>269990</price>
+        <price>219990</price>
         <outlets>
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
@@ -2615,7 +2615,7 @@
         <name>S80TR.DRUSLLK.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>319990</price>
+        <price>419990</price>
         <outlets>
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
@@ -2624,7 +2624,7 @@
         <name>S70TY.ARUSLLK.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>229990</price>
+        <price>189990</price>
         <outlets>
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
@@ -2642,7 +2642,7 @@
         <name>S40T.DRUSLLK.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>79990</price>
+        <price>119990</price>
         <outlets>
           <outlet instock="1" warehouse_name="Основной склад" />
         </outlets>
@@ -2651,18 +2651,18 @@
         <name>SG10TY.DRUSLLK.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>399990</price>
+        <price>439990</price>
         <outlets>
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
       </offer>
-      <offer id="6912" available="true">
+      <offer id="6912" available="false">
         <name>S95TR.DRUSLLK.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
         <price>499990</price>
         <outlets>
-          <outlet instock="1" warehouse_name="Основной склад" />
+          <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
       </offer>
       <offer id="7045" available="false">
@@ -2822,7 +2822,7 @@
         <name>32GS95UV-B.ARUZ.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>799990</price>
+        <price>699990</price>
         <outlets>
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
@@ -3173,7 +3173,7 @@
         <name>XL9T.DRUSLLK.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>299990</price>
+        <price>249990</price>
         <outlets>
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
@@ -3524,7 +3524,7 @@
         <name>65QNED86A6A.ADKG.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>699990</price>
+        <price>749990</price>
         <outlets>
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
@@ -3650,7 +3650,7 @@
         <name>75QNED86A6A.ADKG.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>949990</price>
+        <price>999990</price>
         <outlets>
           <outlet instock="3" warehouse_name="Основной склад" />
         </outlets>
@@ -3722,7 +3722,7 @@
         <name>55NANO81A6A.ADKG.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>369990</price>
+        <price>364990</price>
         <outlets>
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
@@ -3740,7 +3740,7 @@
         <name>55QNED86A6A.ADKG.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>499990</price>
+        <price>599990</price>
         <outlets>
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
@@ -3758,7 +3758,7 @@
         <name>75NANO81A6A.ADKG.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>629990</price>
+        <price>619990</price>
         <outlets>
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
@@ -3803,7 +3803,7 @@
         <name>86QNED86A6A.ADKG.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>1499990</price>
+        <price>1599990</price>
         <outlets>
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
@@ -4021,7 +4021,7 @@
         <currencyId>KZT</currencyId>
         <price>314990</price>
         <outlets>
-          <outlet instock="54" warehouse_name="Основной склад" />
+          <outlet instock="100" warehouse_name="Основной склад" />
         </outlets>
       </offer>
       <offer id="13307" available="false">
@@ -4273,16 +4273,16 @@
         <currencyId>KZT</currencyId>
         <price>209990</price>
         <outlets>
-          <outlet instock="211" warehouse_name="Основной склад" />
+          <outlet instock="297" warehouse_name="Основной склад" />
         </outlets>
       </offer>
-      <offer id="14072" available="true">
+      <offer id="14072" available="false">
         <name>OLED55G5RLA.ADKG.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
         <price>1179990</price>
         <outlets>
-          <outlet instock="3" warehouse_name="Основной склад" />
+          <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
       </offer>
       <offer id="14094" available="true">
@@ -4316,7 +4316,7 @@
         <name>100QNED86A6.ADKG.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>2999990</price>
+        <price>3789990</price>
         <outlets>
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
@@ -4330,13 +4330,13 @@
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
       </offer>
-      <offer id="14273" available="false">
+      <offer id="14273" available="true">
         <name>F2V5HG1W.ABWPCOM.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
         <price>299990</price>
         <outlets>
-          <outlet instock="0" warehouse_name="Основной склад" />
+          <outlet instock="1" warehouse_name="Основной склад" />
         </outlets>
       </offer>
       <offer id="14284" available="false">
@@ -4379,7 +4379,7 @@
         <name>OLED48C5RLA.ADKG.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>699990</price>
+        <price>764990</price>
         <outlets>
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
@@ -4402,13 +4402,13 @@
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
       </offer>
-      <offer id="15072" available="false">
+      <offer id="15072" available="true">
         <name>F2V5HS5W.ABWPCOM.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
         <price>244990</price>
         <outlets>
-          <outlet instock="0" warehouse_name="Основной склад" />
+          <outlet instock="1" warehouse_name="Основной склад" />
         </outlets>
       </offer>
       <offer id="15674" available="false">
@@ -5171,7 +5171,7 @@
         <name>55QNED70A6A.ADKG.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>374990</price>
+        <price>369990</price>
         <outlets>
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
@@ -5207,7 +5207,7 @@
         <name>29U531A-W.ARUZ.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>137990</price>
+        <price>115990</price>
         <outlets>
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
@@ -5261,7 +5261,7 @@
         <name>75QNED70A6A.ADKG.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>659990</price>
+        <price>679990</price>
         <outlets>
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
@@ -5734,13 +5734,13 @@
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
       </offer>
-      <offer id="26431" available="false">
+      <offer id="26431" available="true">
         <name>DC90V9V9WN.TW4V9.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
         <price>994980</price>
         <outlets>
-          <outlet instock="0" warehouse_name="Основной склад" />
+          <outlet instock="1" warehouse_name="Основной склад" />
         </outlets>
       </offer>
       <offer id="26432" available="false">
@@ -5864,7 +5864,7 @@
         <name>27G440A-B.ARUZ.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>129990</price>
+        <price>135990</price>
         <outlets>
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
@@ -5875,7 +5875,7 @@
         <currencyId>KZT</currencyId>
         <price>1099990</price>
         <outlets>
-          <outlet instock="9" warehouse_name="Основной склад" />
+          <outlet instock="8" warehouse_name="Основной склад" />
         </outlets>
       </offer>
       <offer id="38121" available="false">
@@ -5990,7 +5990,7 @@
         <name>27G411A-B.ARUZ.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>76990</price>
+        <price>69990</price>
         <outlets>
           <outlet instock="0" warehouse_name="Основной склад" />
         </outlets>
@@ -6134,7 +6134,7 @@
         <name>24G411A-B.ARUZ.EEAK.KZ.C</name>
         <categoryId>1</categoryId>
         <currencyId>KZT</currencyId>
-        <price>66990</price>
+        <price>58990</price>
         <outlets>
           <outlet instock="5" warehouse_name="Основной склад" />
         </outlets>
