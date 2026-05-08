@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-05-08 13:26">
+<yml_catalog date="2026-05-08 14:22">
     <shop>
         <offers>
             <offer id="5675">
@@ -324,13 +324,6 @@
                     <outlet instock="0" />
                 </outlets>
             </offer>
-            <offer id="5724">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
             <offer id="5725">
                 <price>239990</price>
                 <oldprice>0</oldprice>
@@ -478,27 +471,6 @@
                     <outlet instock="0" />
                 </outlets>
             </offer>
-            <offer id="5746">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
-            <offer id="5747">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
-            <offer id="5748">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
             <offer id="5749">
                 <price>224990</price>
                 <oldprice>0</oldprice>
@@ -576,13 +548,6 @@
                     <outlet instock="0" />
                 </outlets>
             </offer>
-            <offer id="5760">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
             <offer id="5761">
                 <price>239990</price>
                 <oldprice>0</oldprice>
@@ -611,13 +576,6 @@
                     <outlet instock="4" />
                 </outlets>
             </offer>
-            <offer id="5765">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
             <offer id="5766">
                 <price>159990</price>
                 <oldprice>0</oldprice>
@@ -639,25 +597,11 @@
                     <outlet instock="0" />
                 </outlets>
             </offer>
-            <offer id="5769">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
             <offer id="5770">
                 <price>384990</price>
                 <oldprice>0</oldprice>
                 <outlets>
                     <outlet instock="4" />
-                </outlets>
-            </offer>
-            <offer id="5771">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
                 </outlets>
             </offer>
             <offer id="5772">
@@ -697,13 +641,6 @@
             </offer>
             <offer id="5777">
                 <price>304990</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
-            <offer id="5778">
-                <price>0</price>
                 <oldprice>0</oldprice>
                 <outlets>
                     <outlet instock="0" />
@@ -765,71 +702,8 @@
                     <outlet instock="0" />
                 </outlets>
             </offer>
-            <offer id="5787">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
-            <offer id="5788">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
-            <offer id="5789">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
-            <offer id="5790">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
-            <offer id="5791">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
-            <offer id="5792">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
-            <offer id="5793">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
-            <offer id="5794">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
             <offer id="5795">
                 <price>279990</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
-            <offer id="5796">
-                <price>0</price>
                 <oldprice>0</oldprice>
                 <outlets>
                     <outlet instock="0" />
@@ -842,29 +716,8 @@
                     <outlet instock="0" />
                 </outlets>
             </offer>
-            <offer id="5798">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
             <offer id="5799">
                 <price>369990</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
-            <offer id="5800">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
-            <offer id="5801">
-                <price>0</price>
                 <oldprice>0</oldprice>
                 <outlets>
                     <outlet instock="0" />
@@ -1052,13 +905,6 @@
                     <outlet instock="0" />
                 </outlets>
             </offer>
-            <offer id="5828">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
             <offer id="5829">
                 <price>499990</price>
                 <oldprice>0</oldprice>
@@ -1117,13 +963,6 @@
             </offer>
             <offer id="5837">
                 <price>549990</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
-            <offer id="5838">
-                <price>0</price>
                 <oldprice>0</oldprice>
                 <outlets>
                     <outlet instock="0" />
@@ -1276,13 +1115,6 @@
                     <outlet instock="2" />
                 </outlets>
             </offer>
-            <offer id="5860">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
             <offer id="5861">
                 <price>469990</price>
                 <oldprice>0</oldprice>
@@ -1302,13 +1134,6 @@
                 <oldprice>0</oldprice>
                 <outlets>
                     <outlet instock="1" />
-                </outlets>
-            </offer>
-            <offer id="5865">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
                 </outlets>
             </offer>
             <offer id="5866">
@@ -1836,13 +1661,6 @@
                     <outlet instock="0" />
                 </outlets>
             </offer>
-            <offer id="5942">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
             <offer id="5943">
                 <price>652989</price>
                 <oldprice>0</oldprice>
@@ -1999,13 +1817,6 @@
             </offer>
             <offer id="6199">
                 <price>108740</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
-            <offer id="6201">
-                <price>0</price>
                 <oldprice>0</oldprice>
                 <outlets>
                     <outlet instock="0" />
@@ -2375,13 +2186,6 @@
                     <outlet instock="0" />
                 </outlets>
             </offer>
-            <offer id="8582">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
             <offer id="8801">
                 <price>699990</price>
                 <oldprice>0</oldprice>
@@ -2478,13 +2282,6 @@
                 <oldprice>0</oldprice>
                 <outlets>
                     <outlet instock="1" />
-                </outlets>
-            </offer>
-            <offer id="9399">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
                 </outlets>
             </offer>
             <offer id="9727">
@@ -3672,20 +3469,6 @@
             </offer>
             <offer id="15803">
                 <price>362990</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
-            <offer id="15804">
-                <price>0</price>
-                <oldprice>0</oldprice>
-                <outlets>
-                    <outlet instock="0" />
-                </outlets>
-            </offer>
-            <offer id="15806">
-                <price>0</price>
                 <oldprice>0</oldprice>
                 <outlets>
                     <outlet instock="0" />
